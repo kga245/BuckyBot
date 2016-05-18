@@ -3,7 +3,7 @@
     "HELLO": "Now we're talking. Literally. Hahaha! Bot joke. Hilarious. \n![But seriously.](http://i.giphy.com/Gv7i18CFKK1xK.gif) \n[Step 1: Tell me what you like](postback:what_you_like)",
 	"ABOUT_GJS": "about_gjs",
 	"WHAT_YOU_LIKE": "what_you_like",
-	"RANDOM_STORY: "random_story",
+	"RANDOM_STORY": "random_story",
 	"RECOMMENDATIONS": "recommendations",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, BuckyBot is back."
