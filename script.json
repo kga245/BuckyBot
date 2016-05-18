@@ -1,8 +1,10 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell me](postback:twitter)",
-    "TELL ME": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "ABOUT": "Hi there. I'm a bot called Eddy. I can help you find great things to read right now. \nMade lovingly by: ![Great Jones Street](https://www.greatjonesstreet.press/wp-content/uploads/2016/05/Great-Jones-Street-Logo-White_LeftAlign.png)\nWant to know more about Great Jones Street? %[Yes, please](postback:about_gjs) %[Tell us what you like](postback:what_you_like) %[Random Story!](postback:random_story) %[Today's Stories!](postback:recommendations)",
+    "HELLO": "Now we're talking. Literally. Hahaha! Bot joke. Hilarious. \n![But seriously.](http://i.giphy.com/Gv7i18CFKK1xK.gif) \n[Step 1: Tell me what you like](postback:what_you_like)",
+	"ABOUT_GJS": "about_gjs",
+	"WHAT_YOU_LIKE": "what_you_like",
+	"RANDOM_STORY: "random_story",
+	"RECOMMENDATIONS": "recommendations",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, BuckyBot is back."
 }
