@@ -1,8 +1,8 @@
 {
     "ABOUT": "Hi there. I'm a bot called Eddy. I can help you find great things to read right now. \nMade lovingly by: ![Great Jones Street](https://www.greatjonesstreet.press/wp-content/uploads/2016/05/Great-Jones-Street-Logo-White_LeftAlign.png)\nWant to know more about Great Jones Street? %[Yes, please](postback:about_gjs) %[Tell us what you like](postback:what_you_like) %[Random Story!](postback:random_story) %[Today's Stories!](postback:recommendations)",
-    "START": "Now we're talking. Literally. Hahaha! Bot joke. Hilarious. \n![But seriously.](http://i.giphy.com/Gv7i18CFKK1xK.gif) \n%[Click this](postback:what_i_like)",
+    "START": "Now we're talking. Literally. Hahaha! Bot joke. Hilarious. \n![But seriously.](http://i.giphy.com/Gv7i18CFKK1xK.gif) \n%[Click this](postback:interview)",
 	"ABOUT_GJS": "about_gjs",
-	"WHAT_I_LIKE": "what_you_like",
+	"INTERVIEW": "interview",
 	"RANDOM_STORY": "random_story",
 	"RECOMMENDATIONS": "recommendations",
     "CONNECT ME": "",
