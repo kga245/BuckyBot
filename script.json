@@ -6,5 +6,6 @@
 	"RANDOM_STORY": "random_story",
 	"RECOMMENDATIONS": "recommendations",
     "CONNECT ME": "",
+    "HIT ME" : "You've been hit.",
     "DISCONNECT": "Roger that, BuckyBot is back."
 }
