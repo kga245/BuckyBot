@@ -59,7 +59,7 @@ module.exports = new Script({
                     });
                 })
 
-                return p.then(() => 'speak');
+                // return p.then(() => 'speak');
             }
 
             return updateSilent()
